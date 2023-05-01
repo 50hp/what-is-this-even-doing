@@ -5,7 +5,7 @@ let firstNumber = 2;
 let secondNumber = '8';
 
 let thirdNumber = theDivider(firstNumber, secondNumber);
-
+//28
 console.log('thirdNumber after step 1:', thirdNumber);
 
 // Step 2
@@ -14,7 +14,7 @@ let fourthNumber = 1;
 if (thirdNumber) {
     fourthNumber += thirdNumber;
 }
-
+//1
 console.log('fourthNumber after step 2:', fourthNumber);
 
 // Step 3
